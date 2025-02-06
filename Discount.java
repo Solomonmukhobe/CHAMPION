@@ -1,3 +1,5 @@
+//SOLOMON MUKHOBE
+//CT101/G/19976/23
 import java.util.Scanner;
 public class discount {
     public static void main(String[] args){
